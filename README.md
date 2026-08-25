@@ -27,7 +27,7 @@ This project presents an end-to-end data audit analyzing multi-channel revenue a
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Python (Pandas, Matplotlib, Seaborn), HTML5, CSS3
+- Languages: Python (Pandas, Matplotlib, Seaborn)
 - Tools: Jupyter Notebook, WeasyPrint
 
 
